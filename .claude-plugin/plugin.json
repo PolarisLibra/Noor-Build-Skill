@@ -1,0 +1,13 @@
+{
+  "name": "noor-build",
+  "description": "Build orchestrator and post-mortem companion skills for structured project work in Claude Code. Scales ceremony to match build size, runs reviews and QA automatically, and supports multi-session builds via persistent state files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Noor"
+  },
+  "homepage": "https://github.com/PolarisLibra/Noor-Build-Skill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PolarisLibra/Noor-Build-Skill"
+  }
+}
